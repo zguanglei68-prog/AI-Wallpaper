@@ -1,0 +1,48 @@
+{
+  "Site": {
+    "titleDefault": "AI Wallpaper Generator | AI Wallpaper Shop",
+    "titleTemplate": "%s by AI Wallpaper Generator | AI Wallpaper Shop"
+  },
+  "Hero": {
+    "title": "AI Wallpaper Generator",
+    "description": "Create your own unique and exclusive wallpaper with AI."
+  },
+  "Header": {
+    "pricing": "Pricing",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "dashboard": "Dashboard",
+    "credits": "credits",
+    "brand": "AI Wallpaper"
+  },
+  "Pricing": {
+    "title": "AI Wallpaper Pricing",
+    "description": "Choose a plan to buy credits, Unleash your creativity with AI Wallpaper.",
+    "subscribeName": "Subscribe",
+    "subscribeUnit": "/month",
+    "subscribeDescription": "Popular plan for daily use",
+    "subscribeFeature1": "50 credits for image generation",
+    "subscribeFeature2": "Valid for 1 month",
+    "subscribeFeature3": "High quality image",
+    "subscribeFeature4": "Fast generation speed",
+    "subscribeFeature5": "Unlimited number of downloads",
+    "oneTimeName": "One-time Payment",
+    "oneTimeDescription": "Trial Plan for short-term Use",
+    "oneTimeFeature1": "50 credits for image generation",
+    "oneTimeFeature2": "Valid for 1 month",
+    "oneTimeFeature3": "Standard quality image",
+    "oneTimeFeature4": "Normal generation speed",
+    "oneTimeFeature5": "Limited number of downloads",
+    "buyButton": "Buy plan",
+    "processingButton": "Processing..."
+  },
+  "Footer": {
+    "description": "Generate beautiful wallpapers with AI.",
+    "friends": "Friends",
+    "creditTo": "Credit to",
+    "contact": "contact: ",
+    "copyright": "© Copyright 2024. ",
+    "rights": "All rights reserved.",
+    "brand": "AI Wallpaper"
+  }
+}

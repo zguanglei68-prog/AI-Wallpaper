@@ -1,0 +1,115 @@
+{
+  "Privacy": {
+    "title": "Privacy Policy",
+    "brand": "AI Wallpaper",
+    "domain": "aiwallpaper.shop",
+    "contactEmail": "support@aiwallpaper.shop",
+    "lastUpdated": "2025-10-10",
+    "intro": {
+      "heading": "Introduction",
+      "content": "This Privacy Policy explains how AI Wallpaper (\"we\", \"our\", or \"us\") collects, uses, and protects your information when you access or use our website (aiwallpaper.shop) and services, including the AI Wallpaper Generator."
+    },
+    "whatWeCollect": {
+      "heading": "Information We Collect",
+      "items": [
+        {
+          "title": "Account and Authentication",
+          "content": "Basic profile and authentication identifiers provided via our sign-in provider(s) (e.g., email, user ID)."
+        },
+        {
+          "title": "Usage and Device Information",
+          "content": "IP address, browser/OS details, referring pages, and interactions with pages and APIs, used for security and analytics."
+        },
+        {
+          "title": "Generation Inputs",
+          "content": "Prompts, selected styles, parameters, and optional uploaded images you submit to generate wallpapers."
+        },
+        {
+          "title": "Generated Results",
+          "content": "Output images/variants and related metadata (e.g., resolution, timestamps)."
+        },
+        {
+          "title": "Payments",
+          "content": "If you purchase credits or subscriptions, we process payments via third-party providers. We do not store full payment card details; providers handle card data under their own policies."
+        },
+        {
+          "title": "Cookies and Similar Technologies",
+          "content": "We use essential cookies for authentication and preferences, and privacy-friendly analytics to understand aggregate usage."
+        }
+      ]
+    },
+    "howWeUse": {
+      "heading": "How We Use Your Information",
+      "items": [
+        "Provide and improve the AI Wallpaper Generator, including text-to-image and image-to-image features.",
+        "Operate accounts, credit balances, subscriptions, billing, and customer support.",
+        "Maintain service security, prevent abuse, debug issues, and ensure reliable performance.",
+        "Analyze aggregated usage to improve UI/UX, performance, and generation quality.",
+        "Comply with legal obligations and enforce our terms and policies."
+      ]
+    },
+    "aiProcessing": {
+      "heading": "AI Processing and Third-Party Providers",
+      "content": "Your prompts, parameters, and optionally uploaded images may be sent to AI model providers to generate results. Such providers may process data to deliver the service but must adhere to contractual and legal obligations. We aim to minimize personal data in prompts; avoid including sensitive personal information."
+    },
+    "legalBases": {
+      "heading": "Legal Bases (EEA/UK)",
+      "items": [
+        "Performance of a contract: providing the generation service you request.",
+        "Legitimate interests: improving and securing our services.",
+        "Consent: where required for cookies or optional features.",
+        "Legal obligations: compliance with applicable laws."
+      ]
+    },
+    "retention": {
+      "heading": "Data Retention",
+      "content": "We retain information only as long as necessary for the purposes described, including service operation, security, legal, and accounting requirements. Generated images and logs may be retained for troubleshooting and abuse prevention, then deleted or anonymized."
+    },
+    "sharing": {
+      "heading": "How We Share Information",
+      "items": [
+        "Service Providers: authentication, hosting, analytics, AI model inference, payments, and email—solely to perform services for us.",
+        "Legal and Safety: when required by law or to protect rights, safety, and integrity of our services.",
+        "Business Transfers: in connection with a merger, acquisition, or asset sale, subject to continued protections."
+      ]
+    },
+    "cookies": {
+      "heading": "Cookies and Analytics",
+      "content": "We use essential cookies for login and preferences, and privacy-friendly analytics to understand site usage in aggregate without tracking individual identities across sites. You can adjust browser settings to manage cookies."
+    },
+    "security": {
+      "heading": "Security",
+      "content": "We implement technical and organizational measures to protect information. No method of transmission or storage is 100% secure; we work to continually improve our safeguards."
+    },
+    "children": {
+      "heading": "Children’s Privacy",
+      "content": "Our services are not directed to children under the age required by applicable law. If you believe a child provided personal data, please contact us at support@aiwallpaper.shop and we will take appropriate action."
+    },
+    "international": {
+      "heading": "International Data Transfers",
+      "content": "Information may be processed in countries other than your own. Where applicable, we rely on appropriate safeguards (such as standard contractual clauses) to protect your data."
+    },
+    "yourRights": {
+      "heading": "Your Rights and Choices",
+      "items": [
+        "Access, correct, or delete certain information via your account or by contacting us.",
+        "Object to or restrict certain processing where permitted by law.",
+        "Withdraw consent where processing relies on consent.",
+        "Manage cookies through browser settings."
+      ],
+      "note": "Your rights may vary based on your jurisdiction. We may verify your identity before acting on requests."
+    },
+    "payments": {
+      "heading": "Payments",
+      "content": "Purchases are processed by third-party processors. They receive the necessary payment information to process transactions. Refer to the payment provider’s privacy policy for details."
+    },
+    "changes": {
+      "heading": "Changes to This Policy",
+      "content": "We may update this Privacy Policy from time to time. The updated version will be posted at aiwallpaper.shop and will indicate the \"Last Updated\" date. Your continued use of the service after changes indicates acceptance."
+    },
+    "contact": {
+      "heading": "Contact Us",
+      "content": "If you have questions or requests regarding this Privacy Policy or your data, contact us at support@aiwallpaper.shop."
+    }
+  }
+}

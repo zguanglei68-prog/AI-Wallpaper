@@ -1,0 +1,102 @@
+{
+  "Terms": {
+    "title": "Terms of Service",
+    "brand": "AI Wallpaper",
+    "domain": "aiwallpaper.shop",
+    "contactEmail": "support@aiwallpaper.ship",
+    "lastUpdated": "2025-10-11",
+    "intro": {
+      "heading": "Introduction",
+      "content": "These Terms of Service (\"Terms\") govern your access to and use of AI Wallpaper (\"we\", \"our\", or \"us\"), including our website (aiwallpaper.shop) and services such as the AI Wallpaper Generator. By accessing or using our services, you agree to be bound by these Terms."
+    },
+    "eligibility": {
+      "heading": "Eligibility",
+      "content": "You must have the legal capacity to enter into a binding agreement and comply with applicable laws in your jurisdiction. Our services are not intended for children below the age permitted by local law."
+    },
+    "account": {
+      "heading": "Account & Security",
+      "items": [
+        "You are responsible for safeguarding your account credentials and for all activities under your account.",
+        "Notify us promptly of any unauthorized access or suspected security breach."
+      ]
+    },
+    "serviceOverview": {
+      "heading": "Service Overview",
+      "items": [
+        "AI Wallpaper Generator supports text-to-image and image-to-image generation, style selection, variants, and downloads.",
+        "We may update, improve, or modify features at any time to enhance quality, performance, or security."
+      ]
+    },
+    "acceptableUse": {
+      "heading": "Acceptable Use",
+      "items": [
+        "Do not use the services to create, share, or disseminate illegal, infringing, hateful, harassing, violent, or sexually exploitative content.",
+        "Do not attempt to attack, disrupt, or circumvent security or access controls.",
+        "Do not violate third-party rights, including intellectual property, privacy, and publicity rights.",
+        "Comply with all applicable laws, including export controls and sanctions."
+      ]
+    },
+    "contentOwnership": {
+      "heading": "Content & Ownership",
+      "items": [
+        "Inputs: You retain rights to the prompts, parameters, and images you upload, to the extent permitted by law and platform policies.",
+        "Outputs: Subject to third-party model/provider policies and applicable laws, you may use generated images, including for commercial purposes. You are responsible for ensuring compliance (e.g., avoiding sensitive personal data, protected likeness, or brand misuse).",
+        "License to Us: By using the services, you grant us a limited license to process your inputs/outputs solely for providing, improving, and securing the services (e.g., logs, debugging, abuse prevention)."
+      ]
+    },
+    "payments": {
+      "heading": "Payments, Credits & Subscriptions",
+      "items": [
+        "Credits or subscriptions grant usage within defined limits (e.g., generations, variants). Unused credits may expire as stated at purchase.",
+        "Payments are processed by third-party providers. We do not store full payment card details.",
+        "Fees are non-refundable except where required by law or explicitly stated."
+      ]
+    },
+    "thirdParties": {
+      "heading": "Third-Party Services & AI Providers",
+      "content": "We may rely on authentication, hosting, analytics, payment processors, and AI model providers. Your data may be processed by these third parties under their terms and policies. We contractually require appropriate protections where feasible."
+    },
+    "privacy": {
+      "heading": "Privacy",
+      "content": "Your use of the services is also governed by our Privacy Policy, which describes how we collect, use, and safeguard information."
+    },
+    "ip": {
+      "heading": "Intellectual Property",
+      "items": [
+        "All rights in our services, software, and site content (excluding your inputs/outputs) belong to us or our licensors.",
+        "You may not reverse engineer, decompile, or create derivative works of our services, except where permitted by law."
+      ]
+    },
+    "warranty": {
+      "heading": "Disclaimers",
+      "items": [
+        "Services are provided on an \"AS IS\" and \"AS AVAILABLE\" basis without warranties of any kind.",
+        "We do not warrant that outputs will meet your requirements or be free from infringement, errors, or interruptions.",
+        "You assume all risks for use of generated content."
+      ]
+    },
+    "liability": {
+      "heading": "Limitation of Liability",
+      "content": "To the maximum extent permitted by law, we are not liable for indirect, incidental, special, consequential, or exemplary damages, or for loss of profits, data, or goodwill. Our aggregate liability for claims relating to the services shall not exceed the amounts paid by you to us during the 12 months preceding the event giving rise to the claim."
+    },
+    "termination": {
+      "heading": "Suspension & Termination",
+      "items": [
+        "We may suspend or terminate access for violations of these Terms, abuse, or security risks.",
+        "You may stop using the services at any time. Some obligations survive termination (e.g., payment, IP, disclaimers, limitations of liability)."
+      ]
+    },
+    "governingLaw": {
+      "heading": "Governing Law & Dispute Resolution",
+      "content": "These Terms are governed by applicable law as indicated on our site or in your country/region, without regard to conflict of laws. Disputes shall be resolved in the courts or forums specified by applicable law or our posted jurisdiction. You waive class actions to the extent permitted by law."
+    },
+    "changes": {
+      "heading": "Changes to the Terms",
+      "content": "We may update these Terms from time to time. The updated version will be posted at aiwallpaper.shop and indicate the \"Last Updated\" date. Continued use after changes constitutes acceptance."
+    },
+    "contact": {
+      "heading": "Contact",
+      "content": "Questions about these Terms? Contact us at support@aiwallpaper.ship."
+    }
+  }
+}

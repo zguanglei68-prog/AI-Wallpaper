@@ -1,0 +1,48 @@
+{
+  "Site": {
+    "titleDefault": "AI 壁纸生成器 | AI Wallpaper Shop",
+    "titleTemplate": "%s by AI 壁纸生成器 | AI Wallpaper Shop"
+  },
+  "Hero": {
+    "title": "AI Wallpaper Generator",
+    "description": "一键生成高质感桌面与移动壁纸，风格可调、尺寸自适配，创意从此更高效。"
+  },
+  "Header": {
+    "pricing": "价格",
+    "signIn": "登录",
+    "signUp": "注册",
+    "dashboard": "仪表盘",
+    "credits": "积分",
+    "brand": "AI 壁纸"
+  },
+  "Pricing": {
+    "title": "AI 壁纸定价",
+    "description": "选择一个计划来购买积分，用 AI 壁纸释放您的创造力。",
+    "subscribeName": "订阅",
+    "subscribeUnit": "/月",
+    "subscribeDescription": "适合日常使用的热门计划",
+    "subscribeFeature1": "50个图片生成积分",
+    "subscribeFeature2": "有效期1个月",
+    "subscribeFeature3": "高质量图片",
+    "subscribeFeature4": "快速生成",
+    "subscribeFeature5": "无限次下载",
+    "oneTimeName": "一次性付款",
+    "oneTimeDescription": "适合短期使用的试用计划",
+    "oneTimeFeature1": "50个图片生成积分",
+    "oneTimeFeature2": "有效期1个月",
+    "oneTimeFeature3": "标准质量图片",
+    "oneTimeFeature4": "普通生成速度",
+    "oneTimeFeature5": "有限次下载",
+    "buyButton": "购买计划",
+    "processingButton": "处理中..."
+  },
+  "Footer": {
+    "description": "用 AI 生成精美的壁纸。",
+    "friends": "友情链接",
+    "creditTo": "致谢",
+    "contact": "联系方式: ",
+    "copyright": "© 版权所有 2024. ",
+    "rights": "保留所有权利。",
+    "brand": "AI 壁纸"
+  }
+}

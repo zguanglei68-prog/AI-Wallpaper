@@ -23,13 +23,8 @@ jobs:
           node-version: ${{ matrix.node-version }}
           cache: 'pnpm'
 
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v4
-        with:
-          version: 9
-
-      - name: Enable Corepack
-        run: corepack enable
+      - name: Install pnpm (global)
+        run: npm i -g pnpm@9
 
       - name: Install dependencies
         run: pnpm install --frozen-lockfile

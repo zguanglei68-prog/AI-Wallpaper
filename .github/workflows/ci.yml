@@ -42,4 +42,4 @@ jobs:
         run: pnpm build
 
       - name: Lint (if present)
-        run: pnpm lint --if-present
+        run: pnpm --if-present lint

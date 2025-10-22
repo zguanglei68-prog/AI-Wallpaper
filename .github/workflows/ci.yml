@@ -37,6 +37,8 @@ jobs:
       - name: Build
         env:
           NEXT_PUBLIC_SITE_URL: http://localhost:3000
+          DATABASE_URL: postgresql://user:password@localhost:6543/dbname?pgbouncer=true&sslmode=require
+          DIRECT_URL: postgresql://user:password@localhost:5432/dbname
         run: pnpm build
 
       - name: Lint (if present)

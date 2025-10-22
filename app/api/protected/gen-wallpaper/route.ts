@@ -56,7 +56,11 @@ export async function POST(req: Request) {
 
     const res = await client.images.generate(llm_params);
 
-    const raw_img_url = res.data[0].url;
+    const hasUrl = Array.isArray((res as any)?.data) && typeof (res as any).data[0]?.url === "string";
+    if (!hasUrl) {
+      return respErr("generate wallpaper failed");
+    }
+    const raw_img_url = (res as any).data[0].url as string;
     if (!raw_img_url) {
       return respErr("generate wallpaper failed");
     }
